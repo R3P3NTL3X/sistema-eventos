@@ -1,0 +1,20 @@
+{
+  "name": "davidsierra803",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server db.json",
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^1.0.0-beta.3",
+    "server": "^1.0.42",
+    "vite": "^7.0.4"
+  }
+}

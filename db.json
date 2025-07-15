@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@riwi.io",
+      "username": "admin",
+      "password": "Admin123",
+      "role": "admin"
+    },
+    {
+      "id": "60b4",
+      "name": "visitor",
+      "email": "visitor@riwi.io",
+      "username": "visitor",
+      "password": "123",
+      "role": "visitor"
+    },
+    {
+      "id": "7035",
+      "name": "cristian",
+      "email": "xcrixtian22x@gmail.com",
+      "username": "cristian",
+      "password": "Cristian22.",
+      "role": "visitor"
+    }
+  ],
+  "events": [],
+  "registrations": []
+}
