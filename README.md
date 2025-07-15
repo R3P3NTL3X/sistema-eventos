@@ -53,7 +53,7 @@ Have access to all features, including full event management.
 - Also use the following commands: npm install json-server.
 - In a new terminal, also use the command npm install -g vite.
 - Then, in the terminal where json-server was installed, use the command npm run server.
-- Once the above is executed, run npm run dev in the terminal where vite is located. When finished, something like this should appear: "http://localhost:5173/" Just copy and paste it into your web browser and enjoy!
+- Once the above is executed, run npm run dev in the terminal where vite is located. When finished, something like this should appear: "http://localhost:3000/" Just copy and paste it into your web browser and enjoy!
 
 ---
 
